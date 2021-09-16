@@ -29,9 +29,9 @@ This repo only contatins the data and statistics for 2021. For the data of 2020 
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 09/03/2021 there were a total of **NA** tweets collected. The
-tweets are collected using Twitter’s trending topics and selected
-keywords. Moreover, the tweets from [Chen et
+As of 09/03/2021 there were a total of **2,162,264,378** tweets
+collected. The tweets are collected using Twitter’s trending topics and
+selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
 supplement the dataset by hydrating non-duplicated tweets. These tweets
 are just a sample of all the tweets generated that are provided by
@@ -343,7 +343,7 @@ General Statistics
 
 As of 09/03/2021:
 
-Total Number of tweets: **NA**
+Total Number of tweets: **2,162,264,378**
 
 Average daily number of tweets: **151,360**
 
